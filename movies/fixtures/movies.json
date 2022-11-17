@@ -1,0 +1,152 @@
+[
+    {
+        "model": "movies.movie",
+        "pk": 1,
+        "fields": {
+            "audlt": false,
+            "backdrop_path": "/rl7Jw8PjhSIjArOlDNv0JQPL1ZV.jpg",
+            "overview": "Yeon-du asks her best friend Bora to collect all the information she can about Baek Hyun-jin while she is away in the U.S. for heart surgery. Bora decides to get close to Baek's best friend, Pung Woon-ho first. However, Bora's clumsy plan unfolds in an unexpected direction. In 1999, a year before the new century, Bora, who turns seventeen, falls into the fever of first love.",
+            "popularity": 396.8,
+            "poster_path": "/xM9Jt2sA6QcvLuHKM0RI3BMtFc5.jpg",
+            "release_date": "2022-10-06",
+            "runtime": 0,
+            "title": "20세기 소녀",
+            "vote_average": 8.8
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 2,
+        "fields": {
+            "audlt": false,
+            "backdrop_path": "/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg",
+            "overview": "\"시실리에서 이민온 뒤, 정치권까지 영향력을 미치는 거물로 자리잡은 돈 꼴레오네는 갖가지 고민을 호소하는 사람들의 문제를 해결해주며 대부라 불리운다. 한편 솔로소라는 인물은 꼴레오네가와 라이벌인 탓타리아 패밀리와 손잡고 새로운 마약 사업을 제안한다. 돈 꼴레오네가 마약 사업에 참여하지 않기로 하자, 돈 꼴레오네를 저격해 그는 중상을 입고 사경을 헤매게 된다. 그 뒤, 돈 꼴레오네의 아들 소니는 조직력을 총 동원해 다른 패밀리들과 피를 부르는 전쟁을 시작하는데... 가족의 사업과 상관없이 대학에 진학한 뒤 인텔리로 지내왔던 막내 아들 마이클은 아버지가 총격을 당한 뒤, 아버지를 구하기 위해 위험천만한 협상 자리에 나선다.\"",
+            "popularity": 106.976,
+            "poster_path": "/cOwVs8eYA4G9ZQs7hIRSoiZr46Q.jpg",
+            "release_date": "1972-03-14",
+            "runtime": 0,
+            "title": "대부",
+            "vote_average": 8.7
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 3,
+        "fields": {
+            "audlt": false,
+            "backdrop_path": "/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+            "overview": "촉망받는 은행 간부 앤디 듀프레인은 아내와 그녀의 정부를 살해했다는 누명을 쓴다. 주변의 증언과 살해 현장의 그럴듯한 증거들로 그는 종신형을 선고받고 악질범들만 수용한다는 지옥같은 교도소 쇼생크로 향한다. 인간 말종 쓰레기들만 모인 그곳에서 그는 이루 말할 수 없는 억압과 짐승보다 못한 취급을 당한다. 그러던 어느 날, 간수의 세금을 면제받게 해 준 덕분에 그는 일약 교도소의 비공식 회계사로 일하게 된다. 그 와중에 교도소 소장은 죄수들을 이리저리 부리면서 검은 돈을 긁어 모으고 앤디는 이 돈을 세탁하여 불려주면서 그의 돈을 관리하는데...",
+            "popularity": 77.143,
+            "poster_path": "/oAt6OtpwYCdJI76AVtVKW1eorYx.jpg",
+            "release_date": "1994-09-23",
+            "runtime": 0,
+            "title": "쇼생크 탈출",
+            "vote_average": 8.7
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 4,
+        "fields": {
+            "audlt": false,
+            "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+            "overview": "\"아버지의 장례식 도중에 맏아들 파올로가 총에 맞아 죽고, 비토(로버트 드니로)는 겨우 도망쳐 미국으로 건너온다. 대부로 성장한 후 비토는 다시 치치오를 찾아 복수를 한다. 새롭게 등장한 젊은 대부 마이클(알 파치노)은 본거지를 라스베가스로 옮기고 가족의 사업을 가능한 합법적인 것으로 바꾸려고 애쓴다. 그런 과중 중에 자신을 제거하려는 음모를 알게되고 그는 냉혹하고 신속하게 반대파들을 제거, 조직을 더욱 확대해 나간다. 이를 위해 마이클은 배신한 형마저 죽이고, 일 때문에 아내와 헤어지는 등 인간적으로는 계속 외로워져 가는데...\"",
+            "popularity": 56.576,
+            "poster_path": "/cj9UsJEN5bNf6ZoF1BbKjKN81hc.jpg",
+            "release_date": "1974-12-20",
+            "runtime": 0,
+            "title": "대부 2",
+            "vote_average": 8.6
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 5,
+        "fields": {
+            "audlt": false,
+            "backdrop_path": "/aVFx1VtlOxR3v0ADEatalXOvwbu.jpg",
+            "overview": "숲속의 집을 잃고 홀로 떠돌던 검은 고양이 요정 ‘소흑’은 도시 뒷골목에서 미스터리한 능력의 요정 ‘풍식’을 만나 위기를 모면한다. ‘풍식’의 무리와 버려진 섬에서 행복한 시간을 보내는 ‘소흑’. 그러던 중 최강 능력의 집행자 ‘무한’이 ‘풍식’을 쫓아 섬에 오자 ‘풍식’ 일행은 달아나고, ‘소흑’만 남게 된다.  홀로 남은 ‘소흑’을 요정들의 회관으로 데려가려는 ‘무한’과 ‘무한’을 무서운 인간이라 여겨 도망치려는 ‘소흑’. 둘은 여정 속에서 점점 마음을 열게 되고, ‘무한’은 ‘소흑’에게 특별한 능력이 있음을 알게 된다.",
+            "popularity": 18.183,
+            "poster_path": "/nDieZR47cirx44UZxKQsCbRGYqW.jpg",
+            "release_date": "2019-08-27",
+            "runtime": 0,
+            "title": "나소흑전기: 첫만남편",
+            "vote_average": 8.6
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 6,
+        "fields": {
+            "audlt": false,
+            "backdrop_path": "/vI3aUGTuRRdM7J78KIdW98LdxE5.jpg",
+            "overview": "영국에서 유학중인 라즈(샤룩 칸)와 인도 처녀 심란(까졸).  심란은 부모님이 정해주신 약혼자가 있는데 약혼을 앞두고 친구들과 유럽 여행을 떠나게 된다.  여행 중 우연히 만남 샤룩과 까졸. 두 남녀의 연속된 우연과 좌충우돌 사랑 만들기.  그렇게 사랑하게 된 그들이지만 까졸은 약혼자가 있는 몸. 인도로 돌아가게 된다.  샤룩 또한 그녀를 못 잊어 인도로 뒤 따라 들어가지만 엄격한 까졸의 부모를 설득하기가 힘이 든다. 도망가자는 까졸의 제안을 거부하고 샤룩은 끝내 그녀의 부모님의 허락을 얻어 내기 위해 고군분투한다.",
+            "popularity": 27.416,
+            "poster_path": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+            "release_date": "1995-10-19",
+            "runtime": 0,
+            "title": "용감한 자가 신부를 데려가리",
+            "vote_average": 8.6
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 7,
+        "fields": {
+            "audlt": false,
+            "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+            "overview": "Schindler's List\",\n\"overview\": \"2차 세계대전 당시 독일군이 점령한 폴란드. 시류에 맞춰 자신의 성공을 추구하는 기회주의자 쉰들러는 유태인이 경영하는 그릇 공장을 인수한다. 그는 공장을 인수하기 위해 나찌 당원이 되고 독일군에게 뇌물을 바치는 등 갖은 방법을 동원한다. 그러나 냉혹한 기회주의자였던 쉰들러는 유태인 회계사인 스턴과 친분을 맺으면서 냉혹한 유태인 학살에 대한 양심의 소리를 듣기 시작한다. 마침내 그는 강제 수용소로 끌려가 죽음을 맞게될 유태인들을 구해내기로 결심하고, 독일군 장교에게 빼내는 사람 숫자대로 뇌물을 주는 방법으로 유태인들을 구해내려는 계획을 세우는데...",
+            "popularity": 53.519,
+            "poster_path": "/oyyUcGwLX7LTFS1pQbLrQpyzIyt.jpg",
+            "release_date": "1993-12-15",
+            "runtime": 0,
+            "title": "쉰들러 리스트",
+            "vote_average": 8.6
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 8,
+        "fields": {
+            "audlt": false,
+            "backdrop_path": "/bxSBOAD8AuMHYMdW3jso9npAkgt.jpg",
+            "overview": "Cosas imposibles\",\n\"overview\": \"폭력적인 남편의 사망 후, 마틸데는 여전히 트라우마와 외로움 그리고 유령같이 그녀의 주변을 맴도는 남편의 흔적에 시달린다. 이웃집 소년 미겔과 가까워진 마틸데는 미겔의 마약 판매에 가담하면서, 이전까지 경험하지 못했던 새로운 삶에 눈을 뜨기 시작한다. 나이 차에도 불구하고 두 사람이 나누는 평범하지 않은 우정은 서로의 상처를 보듬고 치유해 준다. 삶의 막다른 골목에서, 불가능해 보였던 희망을 향해 나아가는 마틸데와 미겔의 용기 어린 선택이 감동으로 다가온다.",
+            "popularity": 11.574,
+            "poster_path": "/eaf7GQj0ieOwm08rrvjJQNbN0kN.jpg",
+            "release_date": "2021-06-17",
+            "runtime": 0,
+            "title": "불가능한 것들",
+            "vote_average": 8.5
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 9,
+        "fields": {
+            "audlt": false,
+            "backdrop_path": "/bxSBOAD8AuMHYMdW3jso9npAkgt.jpg",
+            "overview": "평범한 열 살 짜리 소녀 치히로 식구는 이사 가던 중 길을 잘못 들어 낡은 터널을 지나가게 된다. 터널 저편엔 폐허가 된 놀이공원이 있었고 그곳엔 이상한 기운이 흘렀다. 인기척 하나 없는 이 마을의 낯선 분위기에 불길한 기운을 느낀 치히로는 부모님에게 돌아가자고 조르지만 부모님은 호기심에 들떠 마을 곳곳을 돌아다니기 시작한다. 어느 음식점에 도착한 치히로의 부모님은 그 곳에 차려진 음식들을 보고 즐거워하며 허겁지겁 먹어대다가 돼지로 변해버린다. 겁에 질려 당황하는 치히로에게 낯선 소년 하쿠가 나타나 빨리 이곳을 나가라고 소리치는데...",
+            "popularity": 92.393,
+            "poster_path": "/u1L4qxIu5sC2P082uMHYt7Ifvnj.jpg",
+            "release_date": "2001-07-20",
+            "runtime": 0,
+            "title": "센과 치히로의 행방불명",
+            "vote_average": 8.5
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 10,
+        "fields": {
+            "audlt": false,
+            "backdrop_path": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+            "overview": "뉴욕시의 법정에 아버지를 칼로 찌른 한 소년의 살인혐의를 두고, 12인의 배심원들은 만장일치 합의를 통해 소년의 유무죄 여부를 가려줄 것을 요구받는다. 판사는 유죄일 경우 이 소년은 사형이 불가피하다는 것을 이들에게 미리 일러둔다.  배심원 방에 모인 이들은 투표를 통해 유무죄 여부를 가리기로 한다. 사람들이 전부 소년이 유죄로 판단하는 가운데, 오직 한 배심원만이 소년이 무죄라고 주장하는데...",
+            "popularity": 34.18,
+            "poster_path": "/ppd84D2i9W8jXmsyInGyihiSyqz.jpg",
+            "release_date": "1957-04-10",
+            "runtime": 0,
+            "title": "12명의 성난 사람들",
+            "vote_average": 8.5
+        }
+    }
+]
